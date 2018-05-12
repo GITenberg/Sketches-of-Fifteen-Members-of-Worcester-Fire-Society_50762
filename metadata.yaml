@@ -1,10 +1,16 @@
 _repo: Sketches-of-Fifteen-Members-of-Worcester-Fire-Society_50762
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50762-h/images/cover.jpg
 creator:
   author:
     agent_name: Davis, Isaac
     gutenberg_agent_id: '46072'
     url: http://www.gutenberg.org/2009/agents/46072
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50762#Sketches-of-Fifteen-Members-of-Worcester-Fire-Society
 gutenberg_issued: '2015-12-24'
 gutenberg_type: Text
 identifiers:
